@@ -1,4 +1,4 @@
-# Assignments for EAPS 507 – Fall 2026
+# EAPS 507 GitHub Repository Assignment README
 
 This repository organizes my Jupyter Notebook assignments for EAPS 50700 (Fall 2026) from your distance student Kai Gatting!
 
